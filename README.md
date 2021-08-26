@@ -5,6 +5,8 @@
 
 Skills: VUE JS / JS / HTML / CSS
 
+![Profile views](https://gpvc.arturio.dev/irfancahyo)  
+
 ## I'm a student of Indonesian University of Education.
 - 🏫  I'm currently studies as a software engineering.
 - 🧩  I'm currently learning everything. 😅
