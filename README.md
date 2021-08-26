@@ -40,9 +40,6 @@ Skills: VUE JS / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfancahyo)  
 
-
-<br />
-
 ---
 
 <img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=irfancahyo&show_icons=true&theme=dracula" />
