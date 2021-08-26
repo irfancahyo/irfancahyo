@@ -3,7 +3,7 @@
 ## I'm a student of Indonesian University of Education.
 - 🏫  I'm currently studies as a software engineering.
 - 🧩  I'm currently learning everything. 😅
-- 🎯  2021 Goal: Making progress and Contributemore to Open Source projects.
+- 🎯  2021 Goal: Making progress and Contribute more to Open Source projects.
 - ⚡  Fun fact: I love to playing games and do something interesting. 
 
 ### Connect with me:
@@ -32,7 +32,7 @@
 ---
 
 <img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=irfancahyo&show_icons=true&theme=dracula" />
-
+<img align="left" alt="irfancahyo github repo stats" src="https://github-readme-stats.vercel.app/api/pin/?username=irfancahyo&repo=github-readme-stats" />
 
 
 
