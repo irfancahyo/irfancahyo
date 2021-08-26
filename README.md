@@ -1,5 +1,10 @@
 ### Hi there!! I'm Cahyo. 👋 👋
 
+![](https://i.ibb.co/Swrnt2R/Header-Github.png)
+
+
+Skills: VUE JS / JS / HTML / CSS
+
 ## I'm a student of Indonesian University of Education.
 - 🏫  I'm currently studies as a software engineering.
 - 🧩  I'm currently learning everything. 😅
