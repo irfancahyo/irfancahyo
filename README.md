@@ -33,13 +33,12 @@
 
 <img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=irfancahyo&show_icons=true&theme=dracula" />
 
-<br />
 
 ---
 
 <br />
 
-<img align="left" alt="irfancahyo github repo stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancahyo&langs_count=8" />
+<img align="left" alt="irfancahyo github language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancahyo&langs_count=8" />
 
 
 
