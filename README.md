@@ -38,7 +38,9 @@ Skills: VUE JS / JS / HTML / CSS
 
 ---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfancahyo)   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfancahyo)  
+
+<img align="left" alt="irfancahyo github language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancahyo&langs_count=8&show_icons=true&theme=dracula" />
 
 <br />
 
@@ -46,7 +48,7 @@ Skills: VUE JS / JS / HTML / CSS
 
 <img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=irfancahyo&show_icons=true&theme=dracula" />
 
-<img align="left" alt="irfancahyo github language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancahyo&langs_count=8&show_icons=true&theme=dracula" />
+
 
 <br />
 <br />
