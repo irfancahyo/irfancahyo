@@ -12,6 +12,9 @@
 [<img align="left" alt="instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 
+### Languange and tools:
+[<img align="left" alt="VS Code" width="22px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" />][website]
+
 <br />
 <br />
 
