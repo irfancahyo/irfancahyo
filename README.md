@@ -11,7 +11,6 @@
 [<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="discord" width="22px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png" />][discord]
 
 <br />
 <br />
@@ -25,6 +24,8 @@
 [<img align="left" alt="css" width="22px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][website]
 [<img align="left" alt="js" width="22px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="github" width="22px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />][website]
+[<img align="left" alt="discord" width="22px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png" />][discord]
+
 <!-- [<img align="left" alt="VS Code" width="22px" src="" />][website] -->
 
 
