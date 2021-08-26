@@ -15,7 +15,7 @@
 <br />
 <br />
 
-[website]: irfancahyo.com
+[website]: https://irfancahyo.com/
 [youtube]: https://www.youtube.com/channel/UCUuSTYLONWcytwbUfNhBjeg
 [instagram]: https://www.instagram.com/irfancahyoo/
 [linkedin]: https://www.linkedin.com/in/irfan-ariawan-942858196/
