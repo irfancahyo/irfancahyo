@@ -2,7 +2,7 @@
 
 ## I'm a student of Indonesian University of Education.
 - 🏫  I'm currently studies as a software engineering.
-- 🧩  I'm currently learning everything.
+- 🧩  I'm currently learning everything. 😅
 - 🎯  2021 Goal: Making progress and Contributemore to Open Source projects.
 - ⚡  Fun fact: I love to playing games and do something interesting. 
 
