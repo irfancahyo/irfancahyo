@@ -32,7 +32,7 @@
 ---
 
 <img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=irfancahyo&show_icons=true&theme=dracula" />
-[<img align="left" alt="irfancahyo github repo stats" src="https://github-readme-stats.vercel.app/api/pin/?username=irfancahyo&repo=github-readme-stats" />][Readme Card]
+<img align="left" alt="irfancahyo github repo stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
 
 
 
@@ -55,5 +55,3 @@
 [github]: https://github.com/irfancahyo
 [cli]: https://www.w3schools.com/whatis/whatis_cli.asp
 [sourcetree]: https://www.sourcetreeapp.com/
-
-[Readme Card]: https://github.com/anuraghazra/github-readme-stats
