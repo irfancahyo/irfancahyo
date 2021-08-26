@@ -15,14 +15,14 @@
 <br />
 
 ### Languange and tools:
-[<img align="left" alt="vscode" width="22px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="vue" width="22px" src="https://github.com/github/explore/blob/main/topics/vue/vue.png" />][website]
-[<img align="left" alt="babel" width="22px" src="https://github.com/github/explore/blob/main/topics/babel/babel.png" />][website]
-[<img align="left" alt="cli" width="22px" src="https://github.com/github/explore/blob/main/topics/cli/cli.png" />][website]
-[<img align="left" alt="html" width="22px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][website]
-[<img align="left" alt="css" width="22px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][website]
-[<img align="left" alt="js" width="22px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="github" width="22px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />][website]
+[<img align="left" alt="vscode" width="22px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="vue" width="22px" src="https://github.com/github/explore/blob/main/topics/vue/vue.png" />][vue]
+[<img align="left" alt="babel" width="22px" src="https://github.com/github/explore/blob/main/topics/babel/babel.png" />][babel]
+[<img align="left" alt="cli" width="22px" src="https://github.com/github/explore/blob/main/topics/cli/cli.png" />][cli]
+[<img align="left" alt="html" width="22px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][html]
+[<img align="left" alt="css" width="22px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][css]
+[<img align="left" alt="js" width="22px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="github" width="22px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />][github]
 [<img align="left" alt="discord" width="22px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png" />][discord]
 
 <!-- [<img align="left" alt="VS Code" width="22px" src="" />][website] -->
@@ -31,9 +31,19 @@
 
 <br />
 <br />
-
+<!-- Connecting -->
 [website]: https://irfancahyo.com/
 [youtube]: https://www.youtube.com/channel/UCUuSTYLONWcytwbUfNhBjeg
 [instagram]: https://www.instagram.com/irfancahyoo/
 [linkedin]: https://www.linkedin.com/in/irfan-ariawan-942858196/
 [discord]: https://discordapp.com/users/625168519155286026
+
+<!-- Language and tools -->
+[vscode]:https://code.visualstudio.com/
+[vue]: https://vuejs.org/
+[babel]: https://babeljs.io/
+[html]: https://www.w3schools.com/html/
+[css]:https://www.w3schools.com/css/
+[js]:https://www.w3schools.com/js/
+[github]: https://github.com/irfancahyo
+[cli]: https://www.w3schools.com/whatis/whatis_cli.asp
