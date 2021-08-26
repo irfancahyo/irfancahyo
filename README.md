@@ -1,6 +1,6 @@
 ### Hi there!! I'm Cahyo. 👋 👋
 
-![](https://i.ibb.co/Swrnt2R/Header-Github.png)
+<!-- ![](https://i.ibb.co/Swrnt2R/Header-Github.png) -->
 
 
 Skills: VUE JS / JS / HTML / CSS
