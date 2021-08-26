@@ -32,7 +32,7 @@
 ---
 
 <img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=irfancahyo&show_icons=true&theme=dracula" />
-[<img align="left" alt="irfancahyo github repo stats" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />][Readme Card]
+[<img align="left" alt="irfancahyo github repo stats" src="https://github-readme-stats.vercel.app/api/pin/?username=irfancahyo&repo=github-readme-stats" />][Readme Card]
 
 
 
