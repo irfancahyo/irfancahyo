@@ -3,7 +3,7 @@
 <!-- ![](https://i.ibb.co/Swrnt2R/Header-Github.png) -->
 
 
-Skills: VUE JS / JS / HTML / CSS
+Skills: VUE JS / GO / DART
 
 ![Profile views](https://gpvc.arturio.dev/irfancahyo)  
 
