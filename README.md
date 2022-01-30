@@ -24,6 +24,7 @@ Skills: VUE JS / GO / DART
 ### Languange and tools:
 [<img align="left" alt="vscode" width="22px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="vue" width="22px" src="https://github.com/github/explore/blob/main/topics/vue/vue.png" />][vue]
+[<img align="left" alt="go" width="22px" src="https://github.com/github/explore/blob/main/topics/go/go.png" />][go]
 [<img align="left" alt="babel" width="22px" src="https://github.com/github/explore/blob/main/topics/babel/babel.png" />][babel]
 [<img align="left" alt="cli" width="22px" src="https://github.com/github/explore/blob/main/topics/cli/cli.png" />][cli]
 [<img align="left" alt="html" width="22px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][html]
@@ -56,6 +57,7 @@ Skills: VUE JS / GO / DART
 
 [vscode]:https://code.visualstudio.com/
 [vue]: https://vuejs.org/
+[go]: https://go.dev/
 [babel]: https://babeljs.io/
 [html]: https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
